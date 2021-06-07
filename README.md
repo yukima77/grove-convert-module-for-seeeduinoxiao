@@ -4,6 +4,13 @@ Seeedino XIAO用のGrove拡張基板です。
 
 <img src="https://user-images.githubusercontent.com/10735253/117023089-be258780-ad33-11eb-9104-88a8d66e62dd.png" width="300"> <img src="https://user-images.githubusercontent.com/10735253/117022951-a221e600-ad33-11eb-8875-04d45500fa14.png" width="300">
 
+## 注意
+
+本ページは基板に「Grove Convert Module for Seeedino XIAO」という名称で書かれた基板用です。
+
+シルク等の修正を行った「EdelBoard for Seeedino XIAO」とかかれた基板は、下記ページを参照して下さい。
+https://github.com/yukima77/edelboard-for-seeeduinoxiao
+
 ## 特長
 入出力用・シリアル用・ws2812b/サーボモータ用の3つのコネクタが付いているシンプルな基板です。
 
